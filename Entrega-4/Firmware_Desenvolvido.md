@@ -1,6 +1,6 @@
 # Firmware 
 
-O objetivo deste projeto foi desenvolver um sistema capaz de realizar a leitura dos parâmetros de oleosidade e hidratação da pele, utilizando sensores analógicos conectados ao microcontrolador MSP430G2553. No entanto, devido a limitações técnicas do hardware, a funcionalidade referente à medição de hidratação não pôde ser implementada nesta versão.
+O objetivo deste projeto foi desenvolver um sistema capaz de realizar a leitura dos parâmetros de oleosidade e hidratação da pele, utilizando sensores analógicos conectados ao microcontrolador MSP430G2553. No entanto, devido a limitações técnicas, a funcionalidade referente à medição de hidratação não pôde ser implementada nesta versão.
 
 Dessa forma, tanto a documentação quanto o código apresentados a seguir tratam exclusivamente da leitura e exibição do nível de oleosidade da pele.
 
